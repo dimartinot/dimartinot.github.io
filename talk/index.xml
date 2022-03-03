@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | DIMARTINOT</title>
-    <link>https://dimartinot.com/talk/</link>
-      <atom:link href="https://dimartinot.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.github.io/talk/</link>
+      <atom:link href="https://dimartinot.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://dimartinot.com/talk/</link>
+      <link>https://dimartinot.github.io/talk/</link>
     </image>
     
   </channel>

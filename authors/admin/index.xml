@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIMARTINOT</title>
-    <link>https://dimartinot.com/authors/admin/</link>
-      <atom:link href="https://dimartinot.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.github.io/authors/admin/</link>
+      <atom:link href="https://dimartinot.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>DIMARTINOT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
       <title>DIMARTINOT</title>
-      <link>https://dimartinot.com/authors/admin/</link>
+      <link>https://dimartinot.github.io/authors/admin/</link>
     </image>
     
   </channel>

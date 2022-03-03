@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RL | DIMARTINOT</title>
-    <link>https://dimartinot.com/tags/rl/</link>
-      <atom:link href="https://dimartinot.com/tags/rl/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.github.io/tags/rl/</link>
+      <atom:link href="https://dimartinot.github.io/tags/rl/index.xml" rel="self" type="application/rss+xml" />
     <description>RL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
       <title>RL</title>
-      <link>https://dimartinot.com/tags/rl/</link>
+      <link>https://dimartinot.github.io/tags/rl/</link>
     </image>
     
     <item>
       <title>Deep Reinforcement Learning Nanodegree Program</title>
-      <link>https://dimartinot.com/moocs/udacity-deep-reinforcement-learning-program/</link>
+      <link>https://dimartinot.github.io/moocs/udacity-deep-reinforcement-learning-program/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.com/moocs/udacity-deep-reinforcement-learning-program/</guid>
+      <guid>https://dimartinot.github.io/moocs/udacity-deep-reinforcement-learning-program/</guid>
       <description>&lt;p&gt;During this course,&lt;/p&gt;
 </description>
     </item>

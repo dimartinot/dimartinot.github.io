@@ -2,54 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIMARTINOT</title>
-    <link>https://dimartinot.com/</link>
-      <atom:link href="https://dimartinot.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.github.io/</link>
+      <atom:link href="https://dimartinot.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>DIMARTINOT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
       <title>DIMARTINOT</title>
-      <link>https://dimartinot.com/</link>
+      <link>https://dimartinot.github.io/</link>
     </image>
     
     <item>
       <title>Beets or Cotton? Blind Extraction of Fine Agricultural Classes Using a Convolutional Autoencoder Applied to Temporal SAR Signatures</title>
-      <link>https://dimartinot.com/publication/journal_cae/</link>
+      <link>https://dimartinot.github.io/publication/journal_cae/</link>
       <pubDate>Fri, 06 Aug 2021 15:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/publication/journal_cae/</guid>
+      <guid>https://dimartinot.github.io/publication/journal_cae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-branch Deep Learning model for detection of settlements without electricity</title>
-      <link>https://dimartinot.com/publication/igarss21_dfc/</link>
+      <link>https://dimartinot.github.io/publication/igarss21_dfc/</link>
       <pubDate>Thu, 15 Jul 2021 21:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/publication/igarss21_dfc/</guid>
+      <guid>https://dimartinot.github.io/publication/igarss21_dfc/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/g-g22ckEhgk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Convolutional Autoencoder for unsupervised representation learning of PolSAR Time-Series</title>
-      <link>https://dimartinot.com/publication/igarss21_cae/</link>
+      <link>https://dimartinot.github.io/publication/igarss21_cae/</link>
       <pubDate>Mon, 12 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/publication/igarss21_cae/</guid>
+      <guid>https://dimartinot.github.io/publication/igarss21_cae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Copernicus 2: The future of the Copernicus programme</title>
-      <link>https://dimartinot.com/post/medium_copernicus/</link>
+      <link>https://dimartinot.github.io/post/medium_aia/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/post/medium_copernicus/</guid>
+      <guid>https://dimartinot.github.io/post/medium_aia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copernicus 2: The future of the Copernicus programme</title>
+      <link>https://dimartinot.github.io/post/medium_copernicus/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://dimartinot.github.io/post/medium_copernicus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GEE SAR Fetcher</title>
-      <link>https://dimartinot.com/project/geesarfetcher/</link>
+      <link>https://dimartinot.github.io/project/geesarfetcher/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/project/geesarfetcher/</guid>
+      <guid>https://dimartinot.github.io/project/geesarfetcher/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Access Google&amp;rsquo;s multi-petabytes of SAR Imagery data from your python code with &lt;em&gt;no dimension restraint&lt;/em&gt;. Simply supply coordinates, a time interval and obtain a stack of Sentinel-1 preprocessed PolSAR images.
 This enables quick data analysis of GRD images to get better insights of the temporal dimension in SAR data without having to bother with essential but potentially time-consuming steps such as coregistration or calibration.&lt;/p&gt;
@@ -72,33 +80,33 @@ Please make sure to update tests as appropriate.&lt;/p&gt;
     
     <item>
       <title>REACTIV — Implementation for Sentinel Hub Custom Scripts Platform</title>
-      <link>https://dimartinot.com/post/medium_sentinel_hub/</link>
+      <link>https://dimartinot.github.io/post/medium_sentinel_hub/</link>
       <pubDate>Tue, 19 Jan 2021 19:37:11 +0000</pubDate>
-      <guid>https://dimartinot.com/post/medium_sentinel_hub/</guid>
+      <guid>https://dimartinot.github.io/post/medium_sentinel_hub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSc Thesis: Multimodal Similarity Learning for Duplicate Product Identification</title>
-      <link>https://dimartinot.com/publication/master_thesis/</link>
+      <link>https://dimartinot.github.io/publication/master_thesis/</link>
       <pubDate>Tue, 04 Aug 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/publication/master_thesis/</guid>
+      <guid>https://dimartinot.github.io/publication/master_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to choose your loss when designing a Siamese Neural Network ? Contrastive, Triplet or Quadruplet ?</title>
-      <link>https://dimartinot.com/post/medium_siamese_loss/</link>
+      <link>https://dimartinot.github.io/post/medium_siamese_loss/</link>
       <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/post/medium_siamese_loss/</guid>
+      <guid>https://dimartinot.github.io/post/medium_siamese_loss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Similarity Learning &amp; Siamese Networks</title>
-      <link>https://dimartinot.com/project/deep_similarity_learning/</link>
+      <link>https://dimartinot.github.io/project/deep_similarity_learning/</link>
       <pubDate>Mon, 01 Jun 2020 20:01:00 +0000</pubDate>
-      <guid>https://dimartinot.com/project/deep_similarity_learning/</guid>
+      <guid>https://dimartinot.github.io/project/deep_similarity_learning/</guid>
       <description>&lt;p&gt;In this project, I explored deep similarity learning algorithms and their behaviour with different types of data (sequential data, spatial data, multimodal data). For each of these different modalities, I wrote 2 Medium article detailing the retained method and providing my implementation.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;First blog post: &lt;a href=&#34;https://medium.com/@dimartinot/introduction-to-deep-similarity-learning-for-sequences-89d9c26f8392&#34;&gt;Introduction to Deep Similarity learning for sequences&lt;/a&gt;&lt;/li&gt;
@@ -109,17 +117,17 @@ Please make sure to update tests as appropriate.&lt;/p&gt;
     
     <item>
       <title>Introduction to Deep Similarity Learning for sequences</title>
-      <link>https://dimartinot.com/post/medium_siamese_text/</link>
+      <link>https://dimartinot.github.io/post/medium_siamese_text/</link>
       <pubDate>Mon, 01 Jun 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/post/medium_siamese_text/</guid>
+      <guid>https://dimartinot.github.io/post/medium_siamese_text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Reinforcement Learning projects</title>
-      <link>https://dimartinot.com/project/deep_rl_projects/</link>
+      <link>https://dimartinot.github.io/project/deep_rl_projects/</link>
       <pubDate>Thu, 21 May 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/project/deep_rl_projects/</guid>
+      <guid>https://dimartinot.github.io/project/deep_rl_projects/</guid>
       <description>&lt;p&gt;These 3 projects are implementations made for the udacity&amp;rsquo;s nanodegree program, all passed through a reviewer. They contain a small report, gathering my comprehension fo the algorithm as well as details on my implementation and my parameters.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;First project: &lt;a href=&#34;https://github.com/dimartinot/P1-Navigation&#34;&gt;P1 Navigation&lt;/a&gt;. &lt;br&gt;
@@ -140,18 +148,18 @@ Please make sure to update tests as appropriate.&lt;/p&gt;
     
     <item>
       <title>Deep Reinforcement Learning Nanodegree Program</title>
-      <link>https://dimartinot.com/moocs/udacity-deep-reinforcement-learning-program/</link>
+      <link>https://dimartinot.github.io/moocs/udacity-deep-reinforcement-learning-program/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.com/moocs/udacity-deep-reinforcement-learning-program/</guid>
+      <guid>https://dimartinot.github.io/moocs/udacity-deep-reinforcement-learning-program/</guid>
       <description>&lt;p&gt;During this course,&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DEI01x: Data Ethics, AI and Responsible Innovation</title>
-      <link>https://dimartinot.com/moocs/university-of-edinburgh-data-ethics/</link>
+      <link>https://dimartinot.github.io/moocs/university-of-edinburgh-data-ethics/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.com/moocs/university-of-edinburgh-data-ethics/</guid>
+      <guid>https://dimartinot.github.io/moocs/university-of-edinburgh-data-ethics/</guid>
       <description>&lt;p&gt;During this course, I studied how impactful and dangerous misuse of data could be, whether this misuse was intentional or accidental. I also studied solutions and how to put ethics as the corner stone of project developement when it involves data.
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://courses.edx.org/certificates/7dfba671ffd44270ad8e0bececb2217e&#34;&gt;
 See certificate&amp;hellip;
@@ -161,9 +169,9 @@ See certificate&amp;hellip;
     
     <item>
       <title>Time Series Land Cover Challenge: a Deep Learning Perspective</title>
-      <link>https://dimartinot.com/project/tiselac/</link>
+      <link>https://dimartinot.github.io/project/tiselac/</link>
       <pubDate>Mon, 24 Feb 2020 20:09:00 +0000</pubDate>
-      <guid>https://dimartinot.com/project/tiselac/</guid>
+      <guid>https://dimartinot.github.io/project/tiselac/</guid>
       <description>&lt;p&gt;In this project, I explored a Time Series of satellite images dataset by building different deep learning classifiers, finding inspiration in paper research in the field of Time Series classification.
 Our dataset comprises of 23 images where each pixel is 10 Dimensional.&lt;/p&gt;
 &lt;p&gt;I firstly took two different perspective when working with the dataset:&lt;/p&gt;
@@ -181,17 +189,17 @@ Our dataset comprises of 23 images where each pixel is 10 Dimensional.&lt;/p&gt;
     
     <item>
       <title>Time Series Land Cover Challenge: a Deep Learning Perspective</title>
-      <link>https://dimartinot.com/post/medium_tiselac/</link>
+      <link>https://dimartinot.github.io/post/medium_tiselac/</link>
       <pubDate>Mon, 24 Feb 2020 19:37:11 +0000</pubDate>
-      <guid>https://dimartinot.com/post/medium_tiselac/</guid>
+      <guid>https://dimartinot.github.io/post/medium_tiselac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Segmentation Models on artificial moon imagery</title>
-      <link>https://dimartinot.com/project/artificial_moon/</link>
+      <link>https://dimartinot.github.io/project/artificial_moon/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/project/artificial_moon/</guid>
+      <guid>https://dimartinot.github.io/project/artificial_moon/</guid>
       <description>&lt;p&gt;In this project, I trained 4 deep learning segmentation models on an artificial Lunar Dataset to see how they will perform on real images from Nasa.
 For this project, I trained and tested 4 different segmentation models:&lt;/p&gt;
 &lt;ul&gt;
@@ -233,9 +241,9 @@ src=&#34;https://www.youtube.com/embed/pw6Jz4lX2Kc&#34;&gt;
     
     <item>
       <title>Sequence Models</title>
-      <link>https://dimartinot.com/moocs/deeplearning.ai-sequence-models-/</link>
+      <link>https://dimartinot.github.io/moocs/deeplearning.ai-sequence-models-/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.com/moocs/deeplearning.ai-sequence-models-/</guid>
+      <guid>https://dimartinot.github.io/moocs/deeplearning.ai-sequence-models-/</guid>
       <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
 &lt;ul&gt;
  &lt;li&gt; Introduction to Neural Networks (Perceptron, MLP...)&lt;/li&gt;
@@ -255,9 +263,9 @@ See certificate..
     
     <item>
       <title>Improving Deep Neural Networks</title>
-      <link>https://dimartinot.com/moocs/deeplearning.ai-improving-deep-neuralnets-/</link>
+      <link>https://dimartinot.github.io/moocs/deeplearning.ai-improving-deep-neuralnets-/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.com/moocs/deeplearning.ai-improving-deep-neuralnets-/</guid>
+      <guid>https://dimartinot.github.io/moocs/deeplearning.ai-improving-deep-neuralnets-/</guid>
       <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
 &lt;ul&gt;
  &lt;li&gt; Introduction to Neural Networks (Perceptron, MLP...)&lt;/li&gt;
@@ -277,9 +285,9 @@ See certificate..
     
     <item>
       <title>Machine Learning</title>
-      <link>https://dimartinot.com/moocs/stanford-machine-learning/</link>
+      <link>https://dimartinot.github.io/moocs/stanford-machine-learning/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.com/moocs/stanford-machine-learning/</guid>
+      <guid>https://dimartinot.github.io/moocs/stanford-machine-learning/</guid>
       <description>&lt;p&gt;Obtained with a grade of 100%, multiple subject have been treated:&lt;/p&gt;
 &lt;ul&gt;
  &lt;li&gt; Supervised Learning (Linear Regression, Logistic Regression, SVMs, Neural Networks)&lt;/li&gt;
@@ -295,9 +303,9 @@ See certificate...
     
     <item>
       <title>Deep Learning</title>
-      <link>https://dimartinot.com/moocs/cnam-deep-learning/</link>
+      <link>https://dimartinot.github.io/moocs/cnam-deep-learning/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.com/moocs/cnam-deep-learning/</guid>
+      <guid>https://dimartinot.github.io/moocs/cnam-deep-learning/</guid>
       <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
 &lt;ul&gt;
  &lt;li&gt; Introduction to Neural Networks (Perceptron, MLP...)&lt;/li&gt;

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | DIMARTINOT</title>
-    <link>https://dimartinot.com/categories/</link>
-      <atom:link href="https://dimartinot.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.github.io/categories/</link>
+      <atom:link href="https://dimartinot.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
       <title>Categories</title>
-      <link>https://dimartinot.com/categories/</link>
+      <link>https://dimartinot.github.io/categories/</link>
     </image>
     
   </channel>

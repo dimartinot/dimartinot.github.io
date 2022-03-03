@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remote Sensing | DIMARTINOT</title>
-    <link>https://dimartinot.com/categories/remote-sensing/</link>
-      <atom:link href="https://dimartinot.com/categories/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.github.io/categories/remote-sensing/</link>
+      <atom:link href="https://dimartinot.github.io/categories/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
     <description>Remote Sensing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
       <title>Remote Sensing</title>
-      <link>https://dimartinot.com/categories/remote-sensing/</link>
+      <link>https://dimartinot.github.io/categories/remote-sensing/</link>
     </image>
     
     <item>
       <title>Beets or Cotton? Blind Extraction of Fine Agricultural Classes Using a Convolutional Autoencoder Applied to Temporal SAR Signatures</title>
-      <link>https://dimartinot.com/publication/journal_cae/</link>
+      <link>https://dimartinot.github.io/publication/journal_cae/</link>
       <pubDate>Fri, 06 Aug 2021 15:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/publication/journal_cae/</guid>
+      <guid>https://dimartinot.github.io/publication/journal_cae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-branch Deep Learning model for detection of settlements without electricity</title>
-      <link>https://dimartinot.com/publication/igarss21_dfc/</link>
+      <link>https://dimartinot.github.io/publication/igarss21_dfc/</link>
       <pubDate>Thu, 15 Jul 2021 21:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/publication/igarss21_dfc/</guid>
+      <guid>https://dimartinot.github.io/publication/igarss21_dfc/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/g-g22ckEhgk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Convolutional Autoencoder for unsupervised representation learning of PolSAR Time-Series</title>
-      <link>https://dimartinot.com/publication/igarss21_cae/</link>
+      <link>https://dimartinot.github.io/publication/igarss21_cae/</link>
       <pubDate>Mon, 12 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.com/publication/igarss21_cae/</guid>
+      <guid>https://dimartinot.github.io/publication/igarss21_cae/</guid>
       <description></description>
     </item>
     

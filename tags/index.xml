@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | DIMARTINOT</title>
-    <link>https://dimartinot.com/tags/</link>
-      <atom:link href="https://dimartinot.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.github.io/tags/</link>
+      <atom:link href="https://dimartinot.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
       <title>Tags</title>
-      <link>https://dimartinot.com/tags/</link>
+      <link>https://dimartinot.github.io/tags/</link>
     </image>
     
   </channel>
