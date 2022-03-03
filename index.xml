@@ -5,12 +5,20 @@
     <link>https://dimartinot.github.io/</link>
       <atom:link href="https://dimartinot.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>DIMARTINOT</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
       <title>DIMARTINOT</title>
       <link>https://dimartinot.github.io/</link>
     </image>
+    
+    <item>
+      <title>The Artificial Intelligence Act, the new GDPR ?</title>
+      <link>https://dimartinot.github.io/post/medium_aia/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimartinot.github.io/post/medium_aia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beets or Cotton? Blind Extraction of Fine Agricultural Classes Using a Convolutional Autoencoder Applied to Temporal SAR Signatures</title>
@@ -34,14 +42,6 @@
       <link>https://dimartinot.github.io/publication/igarss21_cae/</link>
       <pubDate>Mon, 12 Jul 2021 20:00:00 +0000</pubDate>
       <guid>https://dimartinot.github.io/publication/igarss21_cae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Copernicus 2: The future of the Copernicus programme</title>
-      <link>https://dimartinot.github.io/post/medium_aia/</link>
-      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_aia/</guid>
       <description></description>
     </item>
     

@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dimartinot.github.io/publication_types/1/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.github.io/tags/ai/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.github.io/categories/ai/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.github.io/categories/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.github.io/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.github.io/publication_types/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.github.io/tags/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.github.io/post/medium_aia/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dimartinot.github.io/publication_types/3/</loc>
     <lastmod>2021-08-06T15:00:00+00:00</lastmod>
   </url>
@@ -33,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://dimartinot.github.io/categories/</loc>
-    <lastmod>2021-08-06T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dimartinot.github.io/tags/deep-learning/</loc>
     <lastmod>2021-08-06T15:00:00+00:00</lastmod>
   </url>
@@ -48,22 +83,12 @@
   </url>
   
   <url>
-    <loc>https://dimartinot.github.io/</loc>
-    <lastmod>2021-08-06T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dimartinot.github.io/authors/elise-colin-koeniguer/</loc>
     <lastmod>2021-08-06T15:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dimartinot.github.io/authors/laetitia-thirion-lefevre/</loc>
-    <lastmod>2021-08-06T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.github.io/publication_types/</loc>
     <lastmod>2021-08-06T15:00:00+00:00</lastmod>
   </url>
   
@@ -89,11 +114,6 @@
   
   <url>
     <loc>https://dimartinot.github.io/categories/sar/</loc>
-    <lastmod>2021-08-06T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.github.io/tags/</loc>
     <lastmod>2021-08-06T15:00:00+00:00</lastmod>
   </url>
   
@@ -160,16 +180,6 @@
   <url>
     <loc>https://dimartinot.github.io/publication/igarss21_cae/</loc>
     <lastmod>2021-07-12T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.github.io/publication_types/1/</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.github.io/post/medium_aia/</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -280,11 +290,6 @@
   <url>
     <loc>https://dimartinot.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2020-05-21T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.github.io/tags/ai/</loc>
-    <lastmod>2020-05-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
