@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIMARTINOT</title>
+    <link>https://dimartinot.com/</link>
+      <atom:link href="https://dimartinot.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>DIMARTINOT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>DIMARTINOT</title>
+      <link>https://dimartinot.com/</link>
+    </image>
+    
+    <item>
+      <title>Copernicus 2: The future of the Copernicus programme</title>
+      <link>https://dimartinot.com/post/medium_copernicus/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/post/medium_copernicus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REACTIV — Implementation for Sentinel Hub Custom Scripts Platform</title>
+      <link>https://dimartinot.com/post/medium_sentinel_hub/</link>
+      <pubDate>Tue, 19 Jan 2021 19:37:11 +0000</pubDate>
+      <guid>https://dimartinot.com/post/medium_sentinel_hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Multimodal Similarity Learning for Duplicate Product Identification</title>
+      <link>https://dimartinot.com/publication/master_thesis/</link>
+      <pubDate>Tue, 04 Aug 2020 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/master_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to choose your loss when designing a Siamese Neural Network ? Contrastive, Triplet or Quadruplet ?</title>
+      <link>https://dimartinot.com/post/medium_siamese_loss/</link>
+      <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/post/medium_siamese_loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Similarity Learning &amp; Siamese Networks</title>
+      <link>https://dimartinot.com/project/deep_similarity_learning/</link>
+      <pubDate>Mon, 01 Jun 2020 20:01:00 +0000</pubDate>
+      <guid>https://dimartinot.com/project/deep_similarity_learning/</guid>
+      <description>&lt;p&gt;In this project, I explored deep similarity learning algorithms and their behaviour with different types of data (sequential data, spatial data, multimodal data). For each of these different modalities, I wrote 2 Medium article detailing the retained method and providing my implementation.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Deep Similarity Learning for sequences</title>
+      <link>https://dimartinot.com/post/medium_siamese_text/</link>
+      <pubDate>Mon, 01 Jun 2020 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/post/medium_siamese_text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning projects</title>
+      <link>https://dimartinot.com/project/deep_rl_projects/</link>
+      <pubDate>Thu, 21 May 2020 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/project/deep_rl_projects/</guid>
+      <description>&lt;p&gt;These 3 projects are implementations made for the udacity&amp;rsquo;s nanodegree program, all passed through a reviewer. They contain a small report, gathering my comprehension fo the algorithm as well as details on my implementation and my parameters.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning Nanodegree Program</title>
+      <link>https://dimartinot.com/moocs/udacity-deep-reinforcement-learning-program/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0200</pubDate>
+      <guid>https://dimartinot.com/moocs/udacity-deep-reinforcement-learning-program/</guid>
+      <description>&lt;p&gt;During this course,&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DEI01x: Data Ethics, AI and Responsible Innovation</title>
+      <link>https://dimartinot.com/moocs/university-of-edinburgh-data-ethics/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://dimartinot.com/moocs/university-of-edinburgh-data-ethics/</guid>
+      <description>&lt;p&gt;During this course, I studied how impactful and dangerous misuse of data could be, whether this misuse was intentional or accidental. I also studied solutions and how to put ethics as the corner stone of project developement when it involves data.
+&lt;!-- raw HTML omitted --&gt;
+See certificate&amp;hellip;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time Series Land Cover Challenge: a Deep Learning Perspective</title>
+      <link>https://dimartinot.com/project/tiselac/</link>
+      <pubDate>Mon, 24 Feb 2020 20:09:00 +0000</pubDate>
+      <guid>https://dimartinot.com/project/tiselac/</guid>
+      <description>&lt;p&gt;In this project, I explored a Time Series of satellite images dataset by building different deep learning classifiers, finding inspiration in paper research in the field of Time Series classification.
+Our dataset comprises of 23 images where each pixel is 10 Dimensional.&lt;/p&gt;
+&lt;p&gt;I firstly took two different perspective when working with the dataset:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Having 10 unimodal models that I would then concatenate into a single model to retrieve the class of each pixel (I was inspired by the Time-CNN model). I wanted to exploit a presumed independence between the different features of the mutlimodal time series.&lt;/li&gt;
+&lt;li&gt;Having one multimodal model that would work on the 10 Time Series of each pixel at once. There, I focused on presumed correlation between Time Series&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, I designed a bigger model that would comprises of these two ideas to extract features from both a unimodal point of view and a multimodal point of view.&lt;/p&gt;
+&lt;p&gt;My final model architecture is the following:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time Series Land Cover Challenge: a Deep Learning Perspective</title>
+      <link>https://dimartinot.com/post/medium_tiselac/</link>
+      <pubDate>Mon, 24 Feb 2020 19:37:11 +0000</pubDate>
+      <guid>https://dimartinot.com/post/medium_tiselac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation Models on artificial moon imagery</title>
+      <link>https://dimartinot.com/project/artificial_moon/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/project/artificial_moon/</guid>
+      <description>&lt;p&gt;In this project, I trained 4 deep learning segmentation models on an artificial Lunar Dataset to see how they will perform on real images from Nasa.
+For this project, I trained and tested 4 different segmentation models:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;You can also dive into my code in these multiple notebooks !&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequence Models</title>
+      <link>https://dimartinot.com/moocs/deeplearning.ai-sequence-models-/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://dimartinot.com/moocs/deeplearning.ai-sequence-models-/</guid>
+      <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Deep Neural Networks</title>
+      <link>https://dimartinot.com/moocs/deeplearning.ai-improving-deep-neuralnets-/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0200</pubDate>
+      <guid>https://dimartinot.com/moocs/deeplearning.ai-improving-deep-neuralnets-/</guid>
+      <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://dimartinot.com/moocs/stanford-machine-learning/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://dimartinot.com/moocs/stanford-machine-learning/</guid>
+      <description>&lt;p&gt;Obtained with a grade of 100%, multiple subject have been treated:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://dimartinot.com/moocs/cnam-deep-learning/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
+      <guid>https://dimartinot.com/moocs/cnam-deep-learning/</guid>
+      <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

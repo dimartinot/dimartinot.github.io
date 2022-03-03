@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Reinforcement Learning | DIMARTINOT</title>
+    <link>https://dimartinot.com/tags/deep-reinforcement-learning/</link>
+      <atom:link href="https://dimartinot.com/tags/deep-reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Reinforcement Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 20:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>Deep Reinforcement Learning</title>
+      <link>https://dimartinot.com/tags/deep-reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Deep Reinforcement Learning projects</title>
+      <link>https://dimartinot.com/project/deep_rl_projects/</link>
+      <pubDate>Thu, 21 May 2020 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/project/deep_rl_projects/</guid>
+      <description>&lt;p&gt;These 3 projects are implementations made for the udacity&amp;rsquo;s nanodegree program, all passed through a reviewer. They contain a small report, gathering my comprehension fo the algorithm as well as details on my implementation and my parameters.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

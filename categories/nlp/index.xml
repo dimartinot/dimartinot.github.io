@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP | DIMARTINOT</title>
+    <link>https://dimartinot.com/categories/nlp/</link>
+      <atom:link href="https://dimartinot.com/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 20:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>NLP</title>
+      <link>https://dimartinot.com/categories/nlp/</link>
+    </image>
+    
+    <item>
+      <title>MSc Thesis: Multimodal Similarity Learning for Duplicate Product Identification</title>
+      <link>https://dimartinot.com/publication/master_thesis/</link>
+      <pubDate>Tue, 04 Aug 2020 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/master_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to choose your loss when designing a Siamese Neural Network ? Contrastive, Triplet or Quadruplet ?</title>
+      <link>https://dimartinot.com/post/medium_siamese_loss/</link>
+      <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/post/medium_siamese_loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Deep Similarity Learning for sequences</title>
+      <link>https://dimartinot.com/post/medium_siamese_text/</link>
+      <pubDate>Mon, 01 Jun 2020 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/post/medium_siamese_text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

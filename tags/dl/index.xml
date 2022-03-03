@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DL | DIMARTINOT</title>
+    <link>https://dimartinot.com/tags/dl/</link>
+      <atom:link href="https://dimartinot.com/tags/dl/index.xml" rel="self" type="application/rss+xml" />
+    <description>DL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>DL</title>
+      <link>https://dimartinot.com/tags/dl/</link>
+    </image>
+    
+    <item>
+      <title>Sequence Models</title>
+      <link>https://dimartinot.com/moocs/deeplearning.ai-sequence-models-/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://dimartinot.com/moocs/deeplearning.ai-sequence-models-/</guid>
+      <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Deep Neural Networks</title>
+      <link>https://dimartinot.com/moocs/deeplearning.ai-improving-deep-neuralnets-/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0200</pubDate>
+      <guid>https://dimartinot.com/moocs/deeplearning.ai-improving-deep-neuralnets-/</guid>
+      <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://dimartinot.com/moocs/cnam-deep-learning/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
+      <guid>https://dimartinot.com/moocs/cnam-deep-learning/</guid>
+      <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

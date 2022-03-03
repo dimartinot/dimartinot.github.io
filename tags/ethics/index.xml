@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics | DIMARTINOT</title>
+    <link>https://dimartinot.com/tags/ethics/</link>
+      <atom:link href="https://dimartinot.com/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ethics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>Ethics</title>
+      <link>https://dimartinot.com/tags/ethics/</link>
+    </image>
+    
+    <item>
+      <title>DEI01x: Data Ethics, AI and Responsible Innovation</title>
+      <link>https://dimartinot.com/moocs/university-of-edinburgh-data-ethics/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://dimartinot.com/moocs/university-of-edinburgh-data-ethics/</guid>
+      <description>&lt;p&gt;During this course, I studied how impactful and dangerous misuse of data could be, whether this misuse was intentional or accidental. I also studied solutions and how to put ethics as the corner stone of project developement when it involves data.
+&lt;!-- raw HTML omitted --&gt;
+See certificate&amp;hellip;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
