@@ -42,8 +42,10 @@ Our dataset comprises of 23 images where each pixel is 10 Dimensional.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Finally, I designed a bigger model that would comprises of these two ideas to extract features from both a unimodal point of view and a multimodal point of view.&lt;/p&gt;
 &lt;p&gt;My final model architecture is the following:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
+&lt;figure&gt;
+  &lt;img src=&#34;final_architecture.png&#34; style=&#34;background-color:lightsteelblue&#34;&gt;
+  &lt;figcaption&gt;Architecture of my proposed final network, combination of 3 different models&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>

@@ -18,9 +18,9 @@
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
       <guid>https://dimartinot.com/moocs/university-of-edinburgh-data-ethics/</guid>
       <description>&lt;p&gt;During this course, I studied how impactful and dangerous misuse of data could be, whether this misuse was intentional or accidental. I also studied solutions and how to put ethics as the corner stone of project developement when it involves data.
-&lt;!-- raw HTML omitted --&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://courses.edx.org/certificates/7dfba671ffd44270ad8e0bececb2217e&#34;&gt;
 See certificate&amp;hellip;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -31,10 +31,40 @@ See certificate&amp;hellip;
       <guid>https://dimartinot.com/project/artificial_moon/</guid>
       <description>&lt;p&gt;In this project, I trained 4 deep learning segmentation models on an artificial Lunar Dataset to see how they will perform on real images from Nasa.
 For this project, I trained and tested 4 different segmentation models:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+   &lt;li&gt; UNet
+   &lt;li&gt; LinkNet
+   &lt;li&gt; PSPNet
+   &lt;li&gt; FPN
+&lt;/ul&gt;
+ All of them had very similar training procedure, you can therefore consult the notebook I used to train the FPN and extrapolate the main components of it to the others.
+ The second notebook is where I tested my model on the test dataset and on real moon images. This dataset comes from &lt;a href=&#34;https://www.kaggle.com/romainpessia/artificial-lunar-rocky-landscape-dataset&#34;&gt;kaggle&lt;/a&gt;.
+ I worked with:
+ &lt;ul&gt;
+  &lt;li&gt; Around 7000 images for train set
+  &lt;li&gt; Around 2000 images for validation set
+  &lt;li&gt; Around 1000 images for the test set
+  &lt;li&gt; Around 40 images from real moon pictures
+&lt;/ul&gt;
+I then tried my model on an Apollo video shot from a rover driven during the 1972&#39;s Apollo 15 mission. All these results are consultable in my presentation video.
+&lt;iframe width=&#34;720&#34; height=&#34;480&#34;
+  allowfullscreen=&#34;allowfullscreen&#34;
+        mozallowfullscreen=&#34;mozallowfullscreen&#34;
+        msallowfullscreen=&#34;msallowfullscreen&#34;
+        oallowfullscreen=&#34;oallowfullscreen&#34;
+        webkitallowfullscreen=&#34;webkitallowfullscreen&#34;
+src=&#34;https://www.youtube.com/embed/pw6Jz4lX2Kc&#34;&gt;
+&lt;/iframe&gt;
 &lt;p&gt;You can also dive into my code in these multiple notebooks !&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col&#34;&gt;
+    &lt;button class=&#34;btn btn-primary&#34; onclick=&#34;window.open(&#39;/notebooks/main_presentation_notebook&#39;)&#34;&gt; Open test notebook &lt;/button&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col&#34;&gt;
+    &lt;button class=&#34;btn btn-primary&#34; onclick=&#34;window.open(&#39;/notebooks/segmentation_moon_dataset_fpn&#39;)&#34;&gt; Open FPN training notebook &lt;/button&gt;
+  &lt;/div&gt;
+  &lt;br&gt;
+&lt;/div&gt;
 </description>
     </item>
     

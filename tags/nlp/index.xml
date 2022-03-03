@@ -34,7 +34,10 @@
       <pubDate>Mon, 01 Jun 2020 20:01:00 +0000</pubDate>
       <guid>https://dimartinot.com/project/deep_similarity_learning/</guid>
       <description>&lt;p&gt;In this project, I explored deep similarity learning algorithms and their behaviour with different types of data (sequential data, spatial data, multimodal data). For each of these different modalities, I wrote 2 Medium article detailing the retained method and providing my implementation.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+  &lt;li&gt;First blog post: &lt;a href=&#34;https://medium.com/@dimartinot/introduction-to-deep-similarity-learning-for-sequences-89d9c26f8392&#34;&gt;Introduction to Deep Similarity learning for sequences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Second blog post: &lt;a href=&#34;https://towardsdatascience.com/how-to-choose-your-loss-when-designing-a-siamese-neural-net-contrastive-triplet-or-quadruplet-ecba11944ec?source=friends_link&amp;sk=8e0ca4642ae140db03fc83ecf60daf9d&#34;&gt;How to choose your loss when designing a Siamese Neural Network ? Contrastive, Triplet or Quadruplet ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

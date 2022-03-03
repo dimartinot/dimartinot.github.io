@@ -5,7 +5,7 @@
     <link>https://dimartinot.com/</link>
       <atom:link href="https://dimartinot.com/index.xml" rel="self" type="application/rss+xml" />
     <description>DIMARTINOT</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dimartinot.com/img/shanghai_wetland.png</url>
       <title>DIMARTINOT</title>
@@ -13,11 +13,61 @@
     </image>
     
     <item>
+      <title>Beets or Cotton? Blind Extraction of Fine Agricultural Classes Using a Convolutional Autoencoder Applied to Temporal SAR Signatures</title>
+      <link>https://dimartinot.com/publication/journal_cae/</link>
+      <pubDate>Fri, 06 Aug 2021 15:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/journal_cae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-branch Deep Learning model for detection of settlements without electricity</title>
+      <link>https://dimartinot.com/publication/igarss21_dfc/</link>
+      <pubDate>Thu, 15 Jul 2021 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/igarss21_dfc/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/g-g22ckEhgk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoder for unsupervised representation learning of PolSAR Time-Series</title>
+      <link>https://dimartinot.com/publication/igarss21_cae/</link>
+      <pubDate>Mon, 12 Jul 2021 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/igarss21_cae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Copernicus 2: The future of the Copernicus programme</title>
       <link>https://dimartinot.com/post/medium_copernicus/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://dimartinot.com/post/medium_copernicus/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>GEE SAR Fetcher</title>
+      <link>https://dimartinot.com/project/geesarfetcher/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/project/geesarfetcher/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Access Google&amp;rsquo;s multi-petabytes of SAR Imagery data from your python code with &lt;em&gt;no dimension restraint&lt;/em&gt;. Simply supply coordinates, a time interval and obtain a stack of Sentinel-1 preprocessed PolSAR images.
+This enables quick data analysis of GRD images to get better insights of the temporal dimension in SAR data without having to bother with essential but potentially time-consuming steps such as coregistration or calibration.&lt;/p&gt;
+&lt;p&gt;Compatible with python 3.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gee-sar-fetcher.readthedocs.io/en/latest/?badge=latest&#34;&gt;&lt;img src=&#34;https://readthedocs.org/projects/gee-sar-fetcher/badge/?version=latest&#34; alt=&#34;Documentation Status&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://badge.fury.io/py/geesarfetcher&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/geesarfetcher.svg&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://pepy.tech/project/geesarfetcher&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/geesarfetcher&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Access to Google Earth Engine is conditioned by the obtention of a &lt;a href=&#34;https://earthengine.google.com/&#34;&gt;GEE account&lt;/a&gt;.
+Once created, you can install the &lt;strong&gt;geesarfetcher&lt;/strong&gt; API and register an identifying token for your Python working environment using the following commands:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pip install geesarfetcher
+earthengine authenticate
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;contributing&#34;&gt;Contributing&lt;/h2&gt;
+&lt;p&gt;Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://choosealicense.com/licenses/mit/&#34;&gt;MIT&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -50,7 +100,10 @@
       <pubDate>Mon, 01 Jun 2020 20:01:00 +0000</pubDate>
       <guid>https://dimartinot.com/project/deep_similarity_learning/</guid>
       <description>&lt;p&gt;In this project, I explored deep similarity learning algorithms and their behaviour with different types of data (sequential data, spatial data, multimodal data). For each of these different modalities, I wrote 2 Medium article detailing the retained method and providing my implementation.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+  &lt;li&gt;First blog post: &lt;a href=&#34;https://medium.com/@dimartinot/introduction-to-deep-similarity-learning-for-sequences-89d9c26f8392&#34;&gt;Introduction to Deep Similarity learning for sequences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Second blog post: &lt;a href=&#34;https://towardsdatascience.com/how-to-choose-your-loss-when-designing-a-siamese-neural-net-contrastive-triplet-or-quadruplet-ecba11944ec?source=friends_link&amp;sk=8e0ca4642ae140db03fc83ecf60daf9d&#34;&gt;How to choose your loss when designing a Siamese Neural Network ? Contrastive, Triplet or Quadruplet ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -68,9 +121,20 @@
       <pubDate>Thu, 21 May 2020 20:00:00 +0000</pubDate>
       <guid>https://dimartinot.com/project/deep_rl_projects/</guid>
       <description>&lt;p&gt;These 3 projects are implementations made for the udacity&amp;rsquo;s nanodegree program, all passed through a reviewer. They contain a small report, gathering my comprehension fo the algorithm as well as details on my implementation and my parameters.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+  &lt;li&gt;First project: &lt;a href=&#34;https://github.com/dimartinot/P1-Navigation&#34;&gt;P1 Navigation&lt;/a&gt;. &lt;br&gt;
+  Implementation of a DQN algorithm with uniformly sampled as well as prioritized Replay Buffer, with learning performance comparison.
+  &lt;iframe src=&#34;https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6665990962071896064?compact=1&#34; allowfullscreen=&#34;&#34; title=&#34;Post intégré&#34; width=&#34;504&#34; height=&#34;284&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Second project: &lt;a href=&#34;https://github.com/dimartinot/P2-Continuous-Control&#34;&gt;P2 Continuous Control&lt;/a&gt;. &lt;br&gt;
+  Implementation of a DDPG algorithm with uniformly sampled Replay Buffer and UONoise modeling exploration. Soft update was also used between target and local networks.
+  &lt;img width=&#34;504&#34; height=&#34;284&#34; src=&#34;env_screen_2.png&#34;&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Third project: &lt;a href=&#34;https://github.com/dimartinot/P3-Collaborative&#34;&gt;P3 Collaborative Navigation&lt;/a&gt;. &lt;br&gt;
+  Implementation of a DQN algorithm with uniformly sampled as well as prioritized Replay Buffer, with learning performance comparison.
+  &lt;iframe src=&#34;https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6670628364702781440?compact=1&#34; allowfullscreen=&#34;&#34; title=&#34;Post intégré&#34; width=&#34;504&#34; height=&#34;284&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -89,9 +153,9 @@
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
       <guid>https://dimartinot.com/moocs/university-of-edinburgh-data-ethics/</guid>
       <description>&lt;p&gt;During this course, I studied how impactful and dangerous misuse of data could be, whether this misuse was intentional or accidental. I also studied solutions and how to put ethics as the corner stone of project developement when it involves data.
-&lt;!-- raw HTML omitted --&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://courses.edx.org/certificates/7dfba671ffd44270ad8e0bececb2217e&#34;&gt;
 See certificate&amp;hellip;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -109,8 +173,10 @@ Our dataset comprises of 23 images where each pixel is 10 Dimensional.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Finally, I designed a bigger model that would comprises of these two ideas to extract features from both a unimodal point of view and a multimodal point of view.&lt;/p&gt;
 &lt;p&gt;My final model architecture is the following:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
+&lt;figure&gt;
+  &lt;img src=&#34;final_architecture.png&#34; style=&#34;background-color:lightsteelblue&#34;&gt;
+  &lt;figcaption&gt;Architecture of my proposed final network, combination of 3 different models&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -128,10 +194,40 @@ Our dataset comprises of 23 images where each pixel is 10 Dimensional.&lt;/p&gt;
       <guid>https://dimartinot.com/project/artificial_moon/</guid>
       <description>&lt;p&gt;In this project, I trained 4 deep learning segmentation models on an artificial Lunar Dataset to see how they will perform on real images from Nasa.
 For this project, I trained and tested 4 different segmentation models:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+   &lt;li&gt; UNet
+   &lt;li&gt; LinkNet
+   &lt;li&gt; PSPNet
+   &lt;li&gt; FPN
+&lt;/ul&gt;
+ All of them had very similar training procedure, you can therefore consult the notebook I used to train the FPN and extrapolate the main components of it to the others.
+ The second notebook is where I tested my model on the test dataset and on real moon images. This dataset comes from &lt;a href=&#34;https://www.kaggle.com/romainpessia/artificial-lunar-rocky-landscape-dataset&#34;&gt;kaggle&lt;/a&gt;.
+ I worked with:
+ &lt;ul&gt;
+  &lt;li&gt; Around 7000 images for train set
+  &lt;li&gt; Around 2000 images for validation set
+  &lt;li&gt; Around 1000 images for the test set
+  &lt;li&gt; Around 40 images from real moon pictures
+&lt;/ul&gt;
+I then tried my model on an Apollo video shot from a rover driven during the 1972&#39;s Apollo 15 mission. All these results are consultable in my presentation video.
+&lt;iframe width=&#34;720&#34; height=&#34;480&#34;
+  allowfullscreen=&#34;allowfullscreen&#34;
+        mozallowfullscreen=&#34;mozallowfullscreen&#34;
+        msallowfullscreen=&#34;msallowfullscreen&#34;
+        oallowfullscreen=&#34;oallowfullscreen&#34;
+        webkitallowfullscreen=&#34;webkitallowfullscreen&#34;
+src=&#34;https://www.youtube.com/embed/pw6Jz4lX2Kc&#34;&gt;
+&lt;/iframe&gt;
 &lt;p&gt;You can also dive into my code in these multiple notebooks !&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col&#34;&gt;
+    &lt;button class=&#34;btn btn-primary&#34; onclick=&#34;window.open(&#39;/notebooks/main_presentation_notebook&#39;)&#34;&gt; Open test notebook &lt;/button&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col&#34;&gt;
+    &lt;button class=&#34;btn btn-primary&#34; onclick=&#34;window.open(&#39;/notebooks/segmentation_moon_dataset_fpn&#39;)&#34;&gt; Open FPN training notebook &lt;/button&gt;
+  &lt;/div&gt;
+  &lt;br&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -141,7 +237,19 @@ For this project, I trained and tested 4 different segmentation models:&lt;/p&gt
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0200</pubDate>
       <guid>https://dimartinot.com/moocs/deeplearning.ai-sequence-models-/</guid>
       <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+ &lt;li&gt; Introduction to Neural Networks (Perceptron, MLP...)&lt;/li&gt;
+ &lt;li&gt; Theory of the Gradient Descent (Learning Rate Decay...)&lt;/li&gt;
+ &lt;li&gt; Theory of ConvNets (convolution, pooling...)&lt;/li&gt;
+ &lt;li&gt; Case study (AlexNet, VGG, GoogLeNet, ResNet...)&lt;/li&gt;
+ &lt;li&gt; Visualization (Manifold Untangling, t-sne...)&lt;/li&gt;
+ &lt;li&gt; Advanced optimization (Momentum, NAG, AdaDelta, Adam...)&lt;/li&gt;
+ &lt;li&gt; Unsupervised Learning (GAN, Context Encoder...)&lt;/li&gt;
+ &lt;li&gt; RCNN and derivates&lt;/li&gt;
+&lt;/ul&gt;&lt;br&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://dimartinot.com/moocs/deeplearning_ai_sequence_models.pdf&#34;&gt;
+See certificate..
+&lt;/a&gt;
 </description>
     </item>
     
@@ -151,7 +259,19 @@ For this project, I trained and tested 4 different segmentation models:&lt;/p&gt
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0200</pubDate>
       <guid>https://dimartinot.com/moocs/deeplearning.ai-improving-deep-neuralnets-/</guid>
       <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+ &lt;li&gt; Introduction to Neural Networks (Perceptron, MLP...)&lt;/li&gt;
+ &lt;li&gt; Theory of the Gradient Descent (Learning Rate Decay...)&lt;/li&gt;
+ &lt;li&gt; Theory of ConvNets (convolution, pooling...)&lt;/li&gt;
+ &lt;li&gt; Case study (AlexNet, VGG, GoogLeNet, ResNet...)&lt;/li&gt;
+ &lt;li&gt; Visualization (Manifold Untangling, t-sne...)&lt;/li&gt;
+ &lt;li&gt; Advanced optimization (Momentum, NAG, AdaDelta, Adam...)&lt;/li&gt;
+ &lt;li&gt; Unsupervised Learning (GAN, Context Encoder...)&lt;/li&gt;
+ &lt;li&gt; RCNN and derivates&lt;/li&gt;
+&lt;/ul&gt;&lt;br&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://dimartinot.com/moocs/deeplearning_ai_improve_nn.pdf&#34;&gt;
+See certificate..
+&lt;/a&gt;
 </description>
     </item>
     
@@ -161,7 +281,15 @@ For this project, I trained and tested 4 different segmentation models:&lt;/p&gt
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0200</pubDate>
       <guid>https://dimartinot.com/moocs/stanford-machine-learning/</guid>
       <description>&lt;p&gt;Obtained with a grade of 100%, multiple subject have been treated:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+ &lt;li&gt; Supervised Learning (Linear Regression, Logistic Regression, SVMs, Neural Networks)&lt;/li&gt;
+ &lt;li&gt; Unsupervised Learning (PCA, K-Means, Univariate/Multivariate Gaussian distribution)&lt;/li&gt;
+ &lt;li&gt; Special applications (Recommender systems, large scale ML, distributed systems)&lt;/li&gt;
+ &lt;li&gt; Advice on building ML systems (Bias/variance, regularization, evaluating a learning algorithm, learning curves, error analysis, ceiling analysis)&lt;/li&gt;
+&lt;/ul&gt;&lt;br&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://dimartinot.com/moocs/coursera_ml.pdf&#34;&gt;
+See certificate...
+&lt;/a&gt;
 </description>
     </item>
     
@@ -171,7 +299,19 @@ For this project, I trained and tested 4 different segmentation models:&lt;/p&gt
       <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
       <guid>https://dimartinot.com/moocs/cnam-deep-learning/</guid>
       <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+ &lt;li&gt; Introduction to Neural Networks (Perceptron, MLP...)&lt;/li&gt;
+ &lt;li&gt; Theory of the Gradient Descent (Learning Rate Decay...)&lt;/li&gt;
+ &lt;li&gt; Theory of ConvNets (convolution, pooling...)&lt;/li&gt;
+ &lt;li&gt; Case study (AlexNet, VGG, GoogLeNet, ResNet...)&lt;/li&gt;
+ &lt;li&gt; Visualization (Manifold Untangling, t-sne...)&lt;/li&gt;
+ &lt;li&gt; Advanced optimization (Momentum, NAG, AdaDelta, Adam...)&lt;/li&gt;
+ &lt;li&gt; Unsupervised Learning (GAN, Context Encoder...)&lt;/li&gt;
+ &lt;li&gt; RCNN and derivates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://dimartinot.com/moocs/cnam_deep_learning.pdf&#34;&gt;
+See certificate..
+&lt;/a&gt;
 </description>
     </item>
     

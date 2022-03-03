@@ -18,9 +18,20 @@
       <pubDate>Thu, 21 May 2020 20:00:00 +0000</pubDate>
       <guid>https://dimartinot.com/project/deep_rl_projects/</guid>
       <description>&lt;p&gt;These 3 projects are implementations made for the udacity&amp;rsquo;s nanodegree program, all passed through a reviewer. They contain a small report, gathering my comprehension fo the algorithm as well as details on my implementation and my parameters.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+  &lt;li&gt;First project: &lt;a href=&#34;https://github.com/dimartinot/P1-Navigation&#34;&gt;P1 Navigation&lt;/a&gt;. &lt;br&gt;
+  Implementation of a DQN algorithm with uniformly sampled as well as prioritized Replay Buffer, with learning performance comparison.
+  &lt;iframe src=&#34;https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6665990962071896064?compact=1&#34; allowfullscreen=&#34;&#34; title=&#34;Post intégré&#34; width=&#34;504&#34; height=&#34;284&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Second project: &lt;a href=&#34;https://github.com/dimartinot/P2-Continuous-Control&#34;&gt;P2 Continuous Control&lt;/a&gt;. &lt;br&gt;
+  Implementation of a DDPG algorithm with uniformly sampled Replay Buffer and UONoise modeling exploration. Soft update was also used between target and local networks.
+  &lt;img width=&#34;504&#34; height=&#34;284&#34; src=&#34;env_screen_2.png&#34;&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Third project: &lt;a href=&#34;https://github.com/dimartinot/P3-Collaborative&#34;&gt;P3 Collaborative Navigation&lt;/a&gt;. &lt;br&gt;
+  Implementation of a DQN algorithm with uniformly sampled as well as prioritized Replay Buffer, with learning performance comparison.
+  &lt;iframe src=&#34;https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6670628364702781440?compact=1&#34; allowfullscreen=&#34;&#34; title=&#34;Post intégré&#34; width=&#34;504&#34; height=&#34;284&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

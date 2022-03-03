@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Régis Guinvarc&#39;h | DIMARTINOT</title>
+    <link>https://dimartinot.com/authors/regis-guinvarch/</link>
+      <atom:link href="https://dimartinot.com/authors/regis-guinvarch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Régis Guinvarc&#39;h</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>Régis Guinvarc&#39;h</title>
+      <link>https://dimartinot.com/authors/regis-guinvarch/</link>
+    </image>
+    
+    <item>
+      <title>Beets or Cotton? Blind Extraction of Fine Agricultural Classes Using a Convolutional Autoencoder Applied to Temporal SAR Signatures</title>
+      <link>https://dimartinot.com/publication/journal_cae/</link>
+      <pubDate>Fri, 06 Aug 2021 15:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/journal_cae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoder for unsupervised representation learning of PolSAR Time-Series</title>
+      <link>https://dimartinot.com/publication/igarss21_cae/</link>
+      <pubDate>Mon, 12 Jul 2021 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/igarss21_cae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

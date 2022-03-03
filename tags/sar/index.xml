@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAR | DIMARTINOT</title>
+    <link>https://dimartinot.com/tags/sar/</link>
+      <atom:link href="https://dimartinot.com/tags/sar/index.xml" rel="self" type="application/rss+xml" />
+    <description>SAR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>SAR</title>
+      <link>https://dimartinot.com/tags/sar/</link>
+    </image>
+    
+    <item>
+      <title>Beets or Cotton? Blind Extraction of Fine Agricultural Classes Using a Convolutional Autoencoder Applied to Temporal SAR Signatures</title>
+      <link>https://dimartinot.com/publication/journal_cae/</link>
+      <pubDate>Fri, 06 Aug 2021 15:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/journal_cae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-branch Deep Learning model for detection of settlements without electricity</title>
+      <link>https://dimartinot.com/publication/igarss21_dfc/</link>
+      <pubDate>Thu, 15 Jul 2021 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/igarss21_dfc/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/g-g22ckEhgk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Convolutional Autoencoder for unsupervised representation learning of PolSAR Time-Series</title>
+      <link>https://dimartinot.com/publication/igarss21_cae/</link>
+      <pubDate>Mon, 12 Jul 2021 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/igarss21_cae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEE SAR Fetcher</title>
+      <link>https://dimartinot.com/project/geesarfetcher/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/project/geesarfetcher/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Access Google&amp;rsquo;s multi-petabytes of SAR Imagery data from your python code with &lt;em&gt;no dimension restraint&lt;/em&gt;. Simply supply coordinates, a time interval and obtain a stack of Sentinel-1 preprocessed PolSAR images.
+This enables quick data analysis of GRD images to get better insights of the temporal dimension in SAR data without having to bother with essential but potentially time-consuming steps such as coregistration or calibration.&lt;/p&gt;
+&lt;p&gt;Compatible with python 3.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gee-sar-fetcher.readthedocs.io/en/latest/?badge=latest&#34;&gt;&lt;img src=&#34;https://readthedocs.org/projects/gee-sar-fetcher/badge/?version=latest&#34; alt=&#34;Documentation Status&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://badge.fury.io/py/geesarfetcher&#34;&gt;&lt;img src=&#34;https://badge.fury.io/py/geesarfetcher.svg&#34; alt=&#34;PyPI version&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://pepy.tech/project/geesarfetcher&#34;&gt;&lt;img src=&#34;https://pepy.tech/badge/geesarfetcher&#34; alt=&#34;Downloads&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Access to Google Earth Engine is conditioned by the obtention of a &lt;a href=&#34;https://earthengine.google.com/&#34;&gt;GEE account&lt;/a&gt;.
+Once created, you can install the &lt;strong&gt;geesarfetcher&lt;/strong&gt; API and register an identifying token for your Python working environment using the following commands:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pip install geesarfetcher
+earthengine authenticate
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;contributing&#34;&gt;Contributing&lt;/h2&gt;
+&lt;p&gt;Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://choosealicense.com/licenses/mit/&#34;&gt;MIT&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
