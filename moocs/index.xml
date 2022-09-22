@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moocs | DIMARTINOT</title>
-    <link>https://dimartinot.github.io/moocs/</link>
-      <atom:link href="https://dimartinot.github.io/moocs/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.com/moocs/</link>
+      <atom:link href="https://dimartinot.com/moocs/index.xml" rel="self" type="application/rss+xml" />
     <description>Moocs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
       <title>Moocs</title>
-      <link>https://dimartinot.github.io/moocs/</link>
+      <link>https://dimartinot.com/moocs/</link>
     </image>
     
     <item>
       <title>Deep Reinforcement Learning Nanodegree Program</title>
-      <link>https://dimartinot.github.io/moocs/udacity-deep-reinforcement-learning-program/</link>
+      <link>https://dimartinot.com/moocs/udacity-deep-reinforcement-learning-program/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.github.io/moocs/udacity-deep-reinforcement-learning-program/</guid>
+      <guid>https://dimartinot.com/moocs/udacity-deep-reinforcement-learning-program/</guid>
       <description>&lt;p&gt;During this course,&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DEI01x: Data Ethics, AI and Responsible Innovation</title>
-      <link>https://dimartinot.github.io/moocs/university-of-edinburgh-data-ethics/</link>
+      <link>https://dimartinot.com/moocs/university-of-edinburgh-data-ethics/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.github.io/moocs/university-of-edinburgh-data-ethics/</guid>
+      <guid>https://dimartinot.com/moocs/university-of-edinburgh-data-ethics/</guid>
       <description>&lt;p&gt;During this course, I studied how impactful and dangerous misuse of data could be, whether this misuse was intentional or accidental. I also studied solutions and how to put ethics as the corner stone of project developement when it involves data.
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1&#34; href=&#34;https://courses.edx.org/certificates/7dfba671ffd44270ad8e0bececb2217e&#34;&gt;
 See certificate&amp;hellip;
@@ -35,9 +35,9 @@ See certificate&amp;hellip;
     
     <item>
       <title>Sequence Models</title>
-      <link>https://dimartinot.github.io/moocs/deeplearning.ai-sequence-models-/</link>
+      <link>https://dimartinot.com/moocs/deeplearning.ai-sequence-models-/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.github.io/moocs/deeplearning.ai-sequence-models-/</guid>
+      <guid>https://dimartinot.com/moocs/deeplearning.ai-sequence-models-/</guid>
       <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
 &lt;ul&gt;
  &lt;li&gt; Introduction to Neural Networks (Perceptron, MLP...)&lt;/li&gt;
@@ -57,9 +57,9 @@ See certificate..
     
     <item>
       <title>Improving Deep Neural Networks</title>
-      <link>https://dimartinot.github.io/moocs/deeplearning.ai-improving-deep-neuralnets-/</link>
+      <link>https://dimartinot.com/moocs/deeplearning.ai-improving-deep-neuralnets-/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.github.io/moocs/deeplearning.ai-improving-deep-neuralnets-/</guid>
+      <guid>https://dimartinot.com/moocs/deeplearning.ai-improving-deep-neuralnets-/</guid>
       <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
 &lt;ul&gt;
  &lt;li&gt; Introduction to Neural Networks (Perceptron, MLP...)&lt;/li&gt;
@@ -79,9 +79,9 @@ See certificate..
     
     <item>
       <title>Machine Learning</title>
-      <link>https://dimartinot.github.io/moocs/stanford-machine-learning/</link>
+      <link>https://dimartinot.com/moocs/stanford-machine-learning/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.github.io/moocs/stanford-machine-learning/</guid>
+      <guid>https://dimartinot.com/moocs/stanford-machine-learning/</guid>
       <description>&lt;p&gt;Obtained with a grade of 100%, multiple subject have been treated:&lt;/p&gt;
 &lt;ul&gt;
  &lt;li&gt; Supervised Learning (Linear Regression, Logistic Regression, SVMs, Neural Networks)&lt;/li&gt;
@@ -97,9 +97,9 @@ See certificate...
     
     <item>
       <title>Deep Learning</title>
-      <link>https://dimartinot.github.io/moocs/cnam-deep-learning/</link>
+      <link>https://dimartinot.com/moocs/cnam-deep-learning/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
-      <guid>https://dimartinot.github.io/moocs/cnam-deep-learning/</guid>
+      <guid>https://dimartinot.com/moocs/cnam-deep-learning/</guid>
       <description>&lt;p&gt;Obtained with a grade of 83/100, multiple subject have been treated:&lt;/p&gt;
 &lt;ul&gt;
  &lt;li&gt; Introduction to Neural Networks (Perceptron, MLP...)&lt;/li&gt;

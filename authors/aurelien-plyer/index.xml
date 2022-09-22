@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurélien Plyer | DIMARTINOT</title>
+    <link>https://dimartinot.com/authors/aurelien-plyer/</link>
+      <atom:link href="https://dimartinot.com/authors/aurelien-plyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aurélien Plyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jun 2022 21:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>Aurélien Plyer</title>
+      <link>https://dimartinot.com/authors/aurelien-plyer/</link>
+    </image>
+    
+    <item>
+      <title>Extracting relevance from SAR temporal profiles on a glacier and an alpine watershed by a deep autoencoder</title>
+      <link>https://dimartinot.com/publication/isprs22/</link>
+      <pubDate>Mon, 06 Jun 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/isprs22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPRS CONGRESS 2022: International Society for Photogrammetry and Remote Sensing</title>
+      <link>https://dimartinot.com/talk/isprs22/</link>
+      <pubDate>Mon, 06 Jun 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/isprs22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

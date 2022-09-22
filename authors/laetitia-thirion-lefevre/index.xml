@@ -2,29 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laetitia Thirion-Lefevre | DIMARTINOT</title>
-    <link>https://dimartinot.github.io/authors/laetitia-thirion-lefevre/</link>
-      <atom:link href="https://dimartinot.github.io/authors/laetitia-thirion-lefevre/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.com/authors/laetitia-thirion-lefevre/</link>
+      <atom:link href="https://dimartinot.com/authors/laetitia-thirion-lefevre/index.xml" rel="self" type="application/rss+xml" />
     <description>Laetitia Thirion-Lefevre</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 20:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
       <title>Laetitia Thirion-Lefevre</title>
-      <link>https://dimartinot.github.io/authors/laetitia-thirion-lefevre/</link>
+      <link>https://dimartinot.com/authors/laetitia-thirion-lefevre/</link>
     </image>
     
     <item>
+      <title>EUSAR 2022: 14th European Conference on Synthetic Aperture Radar</title>
+      <link>https://dimartinot.com/talk/eusar22/</link>
+      <pubDate>Mon, 25 Jul 2022 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/eusar22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling of agricultural SAR Time Series using Convolutional Autoencoder for the extraction of harvesting practices of rice fields</title>
+      <link>https://dimartinot.com/publication/eusar22/</link>
+      <pubDate>Tue, 12 Jul 2022 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/eusar22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LPS 2022: Living Planet Symposium</title>
+      <link>https://dimartinot.com/talk/lps22/</link>
+      <pubDate>Mon, 23 May 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/lps22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beets or Cotton? Blind Extraction of Fine Agricultural Classes Using a Convolutional Autoencoder Applied to Temporal SAR Signatures</title>
-      <link>https://dimartinot.github.io/publication/journal_cae/</link>
+      <link>https://dimartinot.com/publication/journal_cae/</link>
       <pubDate>Fri, 06 Aug 2021 15:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/publication/journal_cae/</guid>
+      <guid>https://dimartinot.com/publication/journal_cae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IGARSS 2021: International Geoscience and Remote Sensing Symposium</title>
+      <link>https://dimartinot.com/talk/igarss21/</link>
+      <pubDate>Mon, 12 Jul 2021 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/igarss21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutional Autoencoder for unsupervised representation learning of PolSAR Time-Series</title>
-      <link>https://dimartinot.github.io/publication/igarss21_cae/</link>
+      <link>https://dimartinot.com/publication/igarss21_cae/</link>
       <pubDate>Mon, 12 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/publication/igarss21_cae/</guid>
+      <guid>https://dimartinot.com/publication/igarss21_cae/</guid>
       <description></description>
     </item>
     

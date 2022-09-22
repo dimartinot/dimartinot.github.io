@@ -2,15 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | DIMARTINOT</title>
-    <link>https://dimartinot.github.io/talk/</link>
-      <atom:link href="https://dimartinot.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.com/talk/</link>
+      <atom:link href="https://dimartinot.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://dimartinot.github.io/talk/</link>
+      <link>https://dimartinot.com/talk/</link>
     </image>
+    
+    <item>
+      <title>EUSAR 2022: 14th European Conference on Synthetic Aperture Radar</title>
+      <link>https://dimartinot.com/talk/eusar22/</link>
+      <pubDate>Mon, 25 Jul 2022 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/eusar22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSRS 2022: Canadian Symposium on Remote Sensing</title>
+      <link>https://dimartinot.com/talk/csrs22/</link>
+      <pubDate>Mon, 11 Jul 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/csrs22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPRS CONGRESS 2022: International Society for Photogrammetry and Remote Sensing</title>
+      <link>https://dimartinot.com/talk/isprs22/</link>
+      <pubDate>Mon, 06 Jun 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/isprs22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LPS 2022: Living Planet Symposium</title>
+      <link>https://dimartinot.com/talk/lps22/</link>
+      <pubDate>Mon, 23 May 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/lps22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IGARSS 2021: International Geoscience and Remote Sensing Symposium</title>
+      <link>https://dimartinot.com/talk/igarss21/</link>
+      <pubDate>Mon, 12 Jul 2021 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/igarss21/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

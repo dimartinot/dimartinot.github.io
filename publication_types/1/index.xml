@@ -2,61 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | DIMARTINOT</title>
-    <link>https://dimartinot.github.io/publication_types/1/</link>
-      <atom:link href="https://dimartinot.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.com/publication_types/1/</link>
+      <atom:link href="https://dimartinot.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
       <title>1</title>
-      <link>https://dimartinot.github.io/publication_types/1/</link>
+      <link>https://dimartinot.com/publication_types/1/</link>
     </image>
     
     <item>
-      <title>The Artificial Intelligence Act, the new GDPR ?</title>
-      <link>https://dimartinot.github.io/post/medium_aia/</link>
-      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_aia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Copernicus 2: The future of the Copernicus programme</title>
-      <link>https://dimartinot.github.io/post/medium_copernicus/</link>
+      <link>https://dimartinot.com/post/medium_copernicus/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_copernicus/</guid>
+      <guid>https://dimartinot.com/post/medium_copernicus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REACTIV — Implementation for Sentinel Hub Custom Scripts Platform</title>
-      <link>https://dimartinot.github.io/post/medium_sentinel_hub/</link>
+      <link>https://dimartinot.com/post/medium_sentinel_hub/</link>
       <pubDate>Tue, 19 Jan 2021 19:37:11 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_sentinel_hub/</guid>
+      <guid>https://dimartinot.com/post/medium_sentinel_hub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to choose your loss when designing a Siamese Neural Network ? Contrastive, Triplet or Quadruplet ?</title>
-      <link>https://dimartinot.github.io/post/medium_siamese_loss/</link>
+      <link>https://dimartinot.com/post/medium_siamese_loss/</link>
       <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_siamese_loss/</guid>
+      <guid>https://dimartinot.com/post/medium_siamese_loss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to Deep Similarity Learning for sequences</title>
-      <link>https://dimartinot.github.io/post/medium_siamese_text/</link>
+      <link>https://dimartinot.com/post/medium_siamese_text/</link>
       <pubDate>Mon, 01 Jun 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_siamese_text/</guid>
+      <guid>https://dimartinot.com/post/medium_siamese_text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time Series Land Cover Challenge: a Deep Learning Perspective</title>
-      <link>https://dimartinot.github.io/post/medium_tiselac/</link>
+      <link>https://dimartinot.com/post/medium_tiselac/</link>
       <pubDate>Mon, 24 Feb 2020 19:37:11 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_tiselac/</guid>
+      <guid>https://dimartinot.com/post/medium_tiselac/</guid>
       <description></description>
     </item>
     

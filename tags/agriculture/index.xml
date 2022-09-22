@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agriculture | DIMARTINOT</title>
-    <link>https://dimartinot.github.io/tags/agriculture/</link>
-      <atom:link href="https://dimartinot.github.io/tags/agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.com/tags/agriculture/</link>
+      <atom:link href="https://dimartinot.com/tags/agriculture/index.xml" rel="self" type="application/rss+xml" />
     <description>Agriculture</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 20:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
       <title>Agriculture</title>
-      <link>https://dimartinot.github.io/tags/agriculture/</link>
+      <link>https://dimartinot.com/tags/agriculture/</link>
     </image>
     
     <item>
+      <title>EUSAR 2022: 14th European Conference on Synthetic Aperture Radar</title>
+      <link>https://dimartinot.com/talk/eusar22/</link>
+      <pubDate>Mon, 25 Jul 2022 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/eusar22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling of agricultural SAR Time Series using Convolutional Autoencoder for the extraction of harvesting practices of rice fields</title>
+      <link>https://dimartinot.com/publication/eusar22/</link>
+      <pubDate>Tue, 12 Jul 2022 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/eusar22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beets or Cotton? Blind Extraction of Fine Agricultural Classes Using a Convolutional Autoencoder Applied to Temporal SAR Signatures</title>
-      <link>https://dimartinot.github.io/publication/journal_cae/</link>
+      <link>https://dimartinot.com/publication/journal_cae/</link>
       <pubDate>Fri, 06 Aug 2021 15:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/publication/journal_cae/</guid>
+      <guid>https://dimartinot.com/publication/journal_cae/</guid>
       <description></description>
     </item>
     

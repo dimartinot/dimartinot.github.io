@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLP | DIMARTINOT</title>
-    <link>https://dimartinot.github.io/tags/nlp/</link>
-      <atom:link href="https://dimartinot.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.com/tags/nlp/</link>
+      <atom:link href="https://dimartinot.com/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>NLP</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Aug 2020 20:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
       <title>NLP</title>
-      <link>https://dimartinot.github.io/tags/nlp/</link>
+      <link>https://dimartinot.com/tags/nlp/</link>
     </image>
     
     <item>
       <title>MSc Thesis: Multimodal Similarity Learning for Duplicate Product Identification</title>
-      <link>https://dimartinot.github.io/publication/master_thesis/</link>
+      <link>https://dimartinot.com/publication/master_thesis/</link>
       <pubDate>Tue, 04 Aug 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/publication/master_thesis/</guid>
+      <guid>https://dimartinot.com/publication/master_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to choose your loss when designing a Siamese Neural Network ? Contrastive, Triplet or Quadruplet ?</title>
-      <link>https://dimartinot.github.io/post/medium_siamese_loss/</link>
+      <link>https://dimartinot.com/post/medium_siamese_loss/</link>
       <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_siamese_loss/</guid>
+      <guid>https://dimartinot.com/post/medium_siamese_loss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Similarity Learning &amp; Siamese Networks</title>
-      <link>https://dimartinot.github.io/project/deep_similarity_learning/</link>
+      <link>https://dimartinot.com/project/deep_similarity_learning/</link>
       <pubDate>Mon, 01 Jun 2020 20:01:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/project/deep_similarity_learning/</guid>
+      <guid>https://dimartinot.com/project/deep_similarity_learning/</guid>
       <description>&lt;p&gt;In this project, I explored deep similarity learning algorithms and their behaviour with different types of data (sequential data, spatial data, multimodal data). For each of these different modalities, I wrote 2 Medium article detailing the retained method and providing my implementation.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;First blog post: &lt;a href=&#34;https://medium.com/@dimartinot/introduction-to-deep-similarity-learning-for-sequences-89d9c26f8392&#34;&gt;Introduction to Deep Similarity learning for sequences&lt;/a&gt;&lt;/li&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Introduction to Deep Similarity Learning for sequences</title>
-      <link>https://dimartinot.github.io/post/medium_siamese_text/</link>
+      <link>https://dimartinot.com/post/medium_siamese_text/</link>
       <pubDate>Mon, 01 Jun 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_siamese_text/</guid>
+      <guid>https://dimartinot.com/post/medium_siamese_text/</guid>
       <description></description>
     </item>
     

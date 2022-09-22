@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forest | DIMARTINOT</title>
+    <link>https://dimartinot.com/tags/forest/</link>
+      <atom:link href="https://dimartinot.com/tags/forest/index.xml" rel="self" type="application/rss+xml" />
+    <description>Forest</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jul 2022 21:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>Forest</title>
+      <link>https://dimartinot.com/tags/forest/</link>
+    </image>
+    
+    <item>
+      <title>CSRS 2022: Canadian Symposium on Remote Sensing</title>
+      <link>https://dimartinot.com/talk/csrs22/</link>
+      <pubDate>Mon, 11 Jul 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/csrs22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LPS 2022: Living Planet Symposium</title>
+      <link>https://dimartinot.com/talk/lps22/</link>
+      <pubDate>Mon, 23 May 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/lps22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

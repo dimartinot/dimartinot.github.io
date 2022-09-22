@@ -2,62 +2,118 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | DIMARTINOT</title>
-    <link>https://dimartinot.github.io/tags/deep-learning/</link>
-      <atom:link href="https://dimartinot.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.com/tags/deep-learning/</link>
+      <atom:link href="https://dimartinot.com/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 20:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
       <title>Deep Learning</title>
-      <link>https://dimartinot.github.io/tags/deep-learning/</link>
+      <link>https://dimartinot.com/tags/deep-learning/</link>
     </image>
     
     <item>
+      <title>EUSAR 2022: 14th European Conference on Synthetic Aperture Radar</title>
+      <link>https://dimartinot.com/talk/eusar22/</link>
+      <pubDate>Mon, 25 Jul 2022 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/eusar22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling of agricultural SAR Time Series using Convolutional Autoencoder for the extraction of harvesting practices of rice fields</title>
+      <link>https://dimartinot.com/publication/eusar22/</link>
+      <pubDate>Tue, 12 Jul 2022 20:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/eusar22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSRS 2022: Canadian Symposium on Remote Sensing</title>
+      <link>https://dimartinot.com/talk/csrs22/</link>
+      <pubDate>Mon, 11 Jul 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/csrs22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting relevance from SAR temporal profiles on a glacier and an alpine watershed by a deep autoencoder</title>
+      <link>https://dimartinot.com/publication/isprs22/</link>
+      <pubDate>Mon, 06 Jun 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/isprs22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISPRS CONGRESS 2022: International Society for Photogrammetry and Remote Sensing</title>
+      <link>https://dimartinot.com/talk/isprs22/</link>
+      <pubDate>Mon, 06 Jun 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/isprs22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LPS 2022: Living Planet Symposium</title>
+      <link>https://dimartinot.com/talk/lps22/</link>
+      <pubDate>Mon, 23 May 2022 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/lps22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beets or Cotton? Blind Extraction of Fine Agricultural Classes Using a Convolutional Autoencoder Applied to Temporal SAR Signatures</title>
-      <link>https://dimartinot.github.io/publication/journal_cae/</link>
+      <link>https://dimartinot.com/publication/journal_cae/</link>
       <pubDate>Fri, 06 Aug 2021 15:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/publication/journal_cae/</guid>
+      <guid>https://dimartinot.com/publication/journal_cae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-branch Deep Learning model for detection of settlements without electricity</title>
-      <link>https://dimartinot.github.io/publication/igarss21_dfc/</link>
+      <link>https://dimartinot.com/publication/igarss21_dfc/</link>
       <pubDate>Thu, 15 Jul 2021 21:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/publication/igarss21_dfc/</guid>
+      <guid>https://dimartinot.com/publication/igarss21_dfc/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/g-g22ckEhgk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
+      <title>IGARSS 2021: International Geoscience and Remote Sensing Symposium</title>
+      <link>https://dimartinot.com/talk/igarss21/</link>
+      <pubDate>Mon, 12 Jul 2021 21:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/talk/igarss21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Convolutional Autoencoder for unsupervised representation learning of PolSAR Time-Series</title>
-      <link>https://dimartinot.github.io/publication/igarss21_cae/</link>
+      <link>https://dimartinot.com/publication/igarss21_cae/</link>
       <pubDate>Mon, 12 Jul 2021 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/publication/igarss21_cae/</guid>
+      <guid>https://dimartinot.com/publication/igarss21_cae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSc Thesis: Multimodal Similarity Learning for Duplicate Product Identification</title>
-      <link>https://dimartinot.github.io/publication/master_thesis/</link>
+      <link>https://dimartinot.com/publication/master_thesis/</link>
       <pubDate>Tue, 04 Aug 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/publication/master_thesis/</guid>
+      <guid>https://dimartinot.com/publication/master_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to choose your loss when designing a Siamese Neural Network ? Contrastive, Triplet or Quadruplet ?</title>
-      <link>https://dimartinot.github.io/post/medium_siamese_loss/</link>
+      <link>https://dimartinot.com/post/medium_siamese_loss/</link>
       <pubDate>Tue, 30 Jun 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_siamese_loss/</guid>
+      <guid>https://dimartinot.com/post/medium_siamese_loss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Similarity Learning &amp; Siamese Networks</title>
-      <link>https://dimartinot.github.io/project/deep_similarity_learning/</link>
+      <link>https://dimartinot.com/project/deep_similarity_learning/</link>
       <pubDate>Mon, 01 Jun 2020 20:01:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/project/deep_similarity_learning/</guid>
+      <guid>https://dimartinot.com/project/deep_similarity_learning/</guid>
       <description>&lt;p&gt;In this project, I explored deep similarity learning algorithms and their behaviour with different types of data (sequential data, spatial data, multimodal data). For each of these different modalities, I wrote 2 Medium article detailing the retained method and providing my implementation.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;First blog post: &lt;a href=&#34;https://medium.com/@dimartinot/introduction-to-deep-similarity-learning-for-sequences-89d9c26f8392&#34;&gt;Introduction to Deep Similarity learning for sequences&lt;/a&gt;&lt;/li&gt;
@@ -68,17 +124,17 @@
     
     <item>
       <title>Introduction to Deep Similarity Learning for sequences</title>
-      <link>https://dimartinot.github.io/post/medium_siamese_text/</link>
+      <link>https://dimartinot.com/post/medium_siamese_text/</link>
       <pubDate>Mon, 01 Jun 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_siamese_text/</guid>
+      <guid>https://dimartinot.com/post/medium_siamese_text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Reinforcement Learning projects</title>
-      <link>https://dimartinot.github.io/project/deep_rl_projects/</link>
+      <link>https://dimartinot.com/project/deep_rl_projects/</link>
       <pubDate>Thu, 21 May 2020 20:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/project/deep_rl_projects/</guid>
+      <guid>https://dimartinot.com/project/deep_rl_projects/</guid>
       <description>&lt;p&gt;These 3 projects are implementations made for the udacity&amp;rsquo;s nanodegree program, all passed through a reviewer. They contain a small report, gathering my comprehension fo the algorithm as well as details on my implementation and my parameters.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;First project: &lt;a href=&#34;https://github.com/dimartinot/P1-Navigation&#34;&gt;P1 Navigation&lt;/a&gt;. &lt;br&gt;
@@ -99,10 +155,10 @@
     
     <item>
       <title>Time Series Land Cover Challenge: a Deep Learning Perspective</title>
-      <link>https://dimartinot.github.io/project/tiselac/</link>
+      <link>https://dimartinot.com/project/tiselac/</link>
       <pubDate>Mon, 24 Feb 2020 20:09:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/project/tiselac/</guid>
-      <description>&lt;p&gt;In this project, I explored a Time Series of satellite images dataset by building different deep learning classifiers, finding inspiration in paper research in the field of Time Series classification.
+      <guid>https://dimartinot.com/project/tiselac/</guid>
+      <description>&lt;p&gt;In this project, I explored a Time Series of satellite images dataset by building different deep learning classifiers, finding inspiration in paper research in the field of Time Series classification. 
 Our dataset comprises of 23 images where each pixel is 10 Dimensional.&lt;/p&gt;
 &lt;p&gt;I firstly took two different perspective when working with the dataset:&lt;/p&gt;
 &lt;ul&gt;
@@ -119,17 +175,17 @@ Our dataset comprises of 23 images where each pixel is 10 Dimensional.&lt;/p&gt;
     
     <item>
       <title>Time Series Land Cover Challenge: a Deep Learning Perspective</title>
-      <link>https://dimartinot.github.io/post/medium_tiselac/</link>
+      <link>https://dimartinot.com/post/medium_tiselac/</link>
       <pubDate>Mon, 24 Feb 2020 19:37:11 +0000</pubDate>
-      <guid>https://dimartinot.github.io/post/medium_tiselac/</guid>
+      <guid>https://dimartinot.com/post/medium_tiselac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Segmentation Models on artificial moon imagery</title>
-      <link>https://dimartinot.github.io/project/artificial_moon/</link>
+      <link>https://dimartinot.com/project/artificial_moon/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/project/artificial_moon/</guid>
+      <guid>https://dimartinot.com/project/artificial_moon/</guid>
       <description>&lt;p&gt;In this project, I trained 4 deep learning segmentation models on an artificial Lunar Dataset to see how they will perform on real images from Nasa.
 For this project, I trained and tested 4 different segmentation models:&lt;/p&gt;
 &lt;ul&gt;

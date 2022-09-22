@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | DIMARTINOT</title>
-    <link>https://dimartinot.github.io/publication_types/3/</link>
-      <atom:link href="https://dimartinot.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimartinot.com/publication_types/3/</link>
+      <atom:link href="https://dimartinot.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dimartinot.github.io/img/shanghai_wetland.png</url>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
       <title>3</title>
-      <link>https://dimartinot.github.io/publication_types/3/</link>
+      <link>https://dimartinot.com/publication_types/3/</link>
     </image>
     
     <item>
       <title>Beets or Cotton? Blind Extraction of Fine Agricultural Classes Using a Convolutional Autoencoder Applied to Temporal SAR Signatures</title>
-      <link>https://dimartinot.github.io/publication/journal_cae/</link>
+      <link>https://dimartinot.com/publication/journal_cae/</link>
       <pubDate>Fri, 06 Aug 2021 15:00:00 +0000</pubDate>
-      <guid>https://dimartinot.github.io/publication/journal_cae/</guid>
+      <guid>https://dimartinot.com/publication/journal_cae/</guid>
       <description></description>
     </item>
     
