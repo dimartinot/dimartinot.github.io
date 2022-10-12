@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="This paper proposes to use methods for compressing the temporal profiles of Sentinel-1 images, in order to be able to evaluate and analyze the richness of the temporal dynamics, both on a glacier and on a watershed. We propose to use unsupervised deep learning to auto-encode the temporal information in 3 dimensions, allowing to use the three descriptors as three RGB components to produce a colored composition synthesizing the information. We compare this Convolutional AutoEncoder (CAE) approach with a dimensionality reduction based on a Principal Component Analysis (PCA) of the temporal profiles. The two methods, CAE and PCA, are applied to a time series over the Kyagar Glacier before and after a surge event, and on an alpine watershed to compare the differences in dynamic evolution associated with different terrain classes with and without snow. On the one hand, on the glacier, the stacks of 10 images used are too short for CAE to extract more than two really significant axes. On the other hand, with longer profiles available over the alpine watershed, the CAE is interesting to improve the clustering results obtained from the decomposition.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://dimartinot.com/talk/isprs22/">
@@ -154,8 +154,8 @@
   <meta property="og:site_name" content="DIMARTINOT">
   <meta property="og:url" content="https://dimartinot.com/talk/isprs22/">
   <meta property="og:title" content="ISPRS CONGRESS 2022: International Society for Photogrammetry and Remote Sensing | DIMARTINOT">
-  <meta property="og:description" content=""><meta property="og:image" content="https://dimartinot.com/img/shanghai_wetland.png">
-  <meta property="twitter:image" content="https://dimartinot.com/img/shanghai_wetland.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="This paper proposes to use methods for compressing the temporal profiles of Sentinel-1 images, in order to be able to evaluate and analyze the richness of the temporal dynamics, both on a glacier and on a watershed. We propose to use unsupervised deep learning to auto-encode the temporal information in 3 dimensions, allowing to use the three descriptors as three RGB components to produce a colored composition synthesizing the information. We compare this Convolutional AutoEncoder (CAE) approach with a dimensionality reduction based on a Principal Component Analysis (PCA) of the temporal profiles. The two methods, CAE and PCA, are applied to a time series over the Kyagar Glacier before and after a surge event, and on an alpine watershed to compare the differences in dynamic evolution associated with different terrain classes with and without snow. On the one hand, on the glacier, the stacks of 10 images used are too short for CAE to extract more than two really significant axes. On the other hand, with longer profiles available over the alpine watershed, the CAE is interesting to improve the clustering results obtained from the decomposition."><meta property="og:image" content="https://dimartinot.com/talk/isprs22/featured.png">
+  <meta property="twitter:image" content="https://dimartinot.com/talk/isprs22/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2022-06-06T21:00:00&#43;00:00">
@@ -184,6 +184,10 @@
   "name": "ISPRS CONGRESS 2022: International Society for Photogrammetry and Remote Sensing",
   
   
+  "image": [
+    "https://dimartinot.com/talk/isprs22/featured.png"
+  ],
+  
   "startDate": "2022-06-06T21:00:00Z",
   
   
@@ -192,7 +196,7 @@
     "name": "Laurane  Charrier"
   },
   
-  "description": ""
+  "description": "This paper proposes to use methods for compressing the temporal profiles of Sentinel-1 images, in order to be able to evaluate and analyze the richness of the temporal dynamics, both on a glacier and on a watershed. We propose to use unsupervised deep learning to auto-encode the temporal information in 3 dimensions, allowing to use the three descriptors as three RGB components to produce a colored composition synthesizing the information. We compare this Convolutional AutoEncoder (CAE) approach with a dimensionality reduction based on a Principal Component Analysis (PCA) of the temporal profiles. The two methods, CAE and PCA, are applied to a time series over the Kyagar Glacier before and after a surge event, and on an alpine watershed to compare the differences in dynamic evolution associated with different terrain classes with and without snow. On the one hand, on the glacier, the stacks of 10 images used are too short for CAE to extract more than two really significant axes. On the other hand, with longer profiles available over the alpine watershed, the CAE is interesting to improve the clustering results obtained from the decomposition."
 }
 </script>
 
@@ -571,18 +575,24 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
   
-  
+
+
 <div class="article-container pt-3">
   <h1>ISPRS CONGRESS 2022: International Society for Photogrammetry and Remote Sensing</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -622,7 +632,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -680,7 +690,14 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 564px; max-height: 453px;">
+  <div style="position: relative">
+    <img src="/talk/isprs22/featured.png" alt="" class="featured-image">
+    <span class="article-header-caption">Resulting visualization schemes obtained with CAE (left) and PCA (right)</span>
+  </div>
 </div>
 
 
@@ -688,7 +705,8 @@
   <div class="article-container">
 
     
-      <br>
+      <h3>Abstract</h3>
+      <p class="pub-abstract">This paper proposes to use methods for compressing the temporal profiles of Sentinel-1 images, in order to be able to evaluate and analyze the richness of the temporal dynamics, both on a glacier and on a watershed. We propose to use unsupervised deep learning to auto-encode the temporal information in 3 dimensions, allowing to use the three descriptors as three RGB components to produce a colored composition synthesizing the information. We compare this Convolutional AutoEncoder (CAE) approach with a dimensionality reduction based on a Principal Component Analysis (PCA) of the temporal profiles. The two methods, CAE and PCA, are applied to a time series over the Kyagar Glacier before and after a surge event, and on an alpine watershed to compare the differences in dynamic evolution associated with different terrain classes with and without snow. On the one hand, on the glacier, the stacks of 10 images used are too short for CAE to extract more than two really significant axes. On the other hand, with longer profiles available over the alpine watershed, the CAE is interesting to improve the clustering results obtained from the decomposition.</p>
     
 
     <div class="row">
