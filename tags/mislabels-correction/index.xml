@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mislabels correction | DIMARTINOT</title>
+    <link>https://dimartinot.com/tags/mislabels-correction/</link>
+      <atom:link href="https://dimartinot.com/tags/mislabels-correction/index.xml" rel="self" type="application/rss+xml" />
+    <description>mislabels correction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>mislabels correction</title>
+      <link>https://dimartinot.com/tags/mislabels-correction/</link>
+    </image>
+    
+    <item>
+      <title> FARMSAR: Fixing AgRicultural Mislabels Using Sentinel-1 Time Series and AutoencodeRs </title>
+      <link>https://dimartinot.com/publication/journal_relabels/</link>
+      <pubDate>Wed, 21 Dec 2022 15:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/journal_relabels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
