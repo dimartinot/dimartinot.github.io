@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bertrand Le Saux | DIMARTINOT</title>
+    <link>https://dimartinot.com/authors/bertrand-le-saux/</link>
+      <atom:link href="https://dimartinot.com/authors/bertrand-le-saux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bertrand Le Saux</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimartinot.com/img/shanghai_wetland.png</url>
+      <title>Bertrand Le Saux</title>
+      <link>https://dimartinot.com/authors/bertrand-le-saux/</link>
+    </image>
+    
+    <item>
+      <title> Detection of Forest Fires through Deep Unsupervised Learning Modeling of Sentinel-1 Time Series </title>
+      <link>https://dimartinot.com/publication/journal_ijgi/</link>
+      <pubDate>Wed, 09 Aug 2023 15:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/journal_ijgi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

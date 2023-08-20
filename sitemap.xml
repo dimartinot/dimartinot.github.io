@@ -3,12 +3,142 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dimartinot.com/publication/journal_relabels/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
+    <loc>https://dimartinot.com/publication/journal_ijgi/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dimartinot.com/publication_types/3/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/authors/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/authors/bertrand-le-saux/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/categories/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/tags/deep-learning/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/categories/deep-learning/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/authors/elise-colin/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/tags/forest/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/categories/forest/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/tags/forest-monitoring/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/categories/forest-monitoring/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/authors/laetitia-thirion-lefevre/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/publication_types/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/tags/remote-sensing/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/categories/remote-sensing/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/authors/regis-guinvarch/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/tags/sar/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/categories/sar/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/tags/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/tags/temporal-sar/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/categories/temporal-sar/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/authors/thomas-di-martino/</loc>
+    <lastmod>2023-08-09T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/publication/journal_grsl/</loc>
+    <lastmod>2023-08-07T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/tags/explainability/</loc>
+    <lastmod>2023-08-07T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/categories/explainability/</loc>
+    <lastmod>2023-08-07T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/publication/journal_relabels/</loc>
     <lastmod>2022-12-21T15:00:00+00:00</lastmod>
   </url>
   
@@ -23,37 +153,7 @@
   </url>
   
   <url>
-    <loc>https://dimartinot.com/authors/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dimartinot.com/categories/autoencoder/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/categories/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/tags/deep-learning/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/categories/deep-learning/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/authors/elise-colin-koeniguer/</loc>
     <lastmod>2022-12-21T15:00:00+00:00</lastmod>
   </url>
   
@@ -63,67 +163,17 @@
   </url>
   
   <url>
-    <loc>https://dimartinot.com/authors/laetitia-thirion-lefevre/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dimartinot.com/tags/mislabels-correction/</loc>
     <lastmod>2022-12-21T15:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dimartinot.com/publication_types/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/tags/remote-sensing/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/categories/remote-sensing/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/authors/regis-guinvarch/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/tags/sar/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/categories/sar/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/tags/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/tags/temporal-sar/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/categories/temporal-sar/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/authors/thomas-di-martino/</loc>
-    <lastmod>2022-12-21T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dimartinot.com/publication_types/2/</loc>
+    <lastmod>2022-07-25T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dimartinot.com/authors/elise-colin-koeniguer/</loc>
     <lastmod>2022-07-25T20:00:00+00:00</lastmod>
   </url>
   
@@ -139,16 +189,6 @@
   
   <url>
     <loc>https://dimartinot.com/talk/csrs22/</loc>
-    <lastmod>2022-07-11T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/tags/forest/</loc>
-    <lastmod>2022-07-11T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dimartinot.com/categories/forest/</loc>
     <lastmod>2022-07-11T21:00:00+00:00</lastmod>
   </url>
   

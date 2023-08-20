@@ -5,12 +5,28 @@
     <link>https://dimartinot.com/categories/temporal-sar/</link>
       <atom:link href="https://dimartinot.com/categories/temporal-sar/index.xml" rel="self" type="application/rss+xml" />
     <description>Temporal SAR</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dimartinot.com/img/shanghai_wetland.png</url>
       <title>Temporal SAR</title>
       <link>https://dimartinot.com/categories/temporal-sar/</link>
     </image>
+    
+    <item>
+      <title> Detection of Forest Fires through Deep Unsupervised Learning Modeling of Sentinel-1 Time Series </title>
+      <link>https://dimartinot.com/publication/journal_ijgi/</link>
+      <pubDate>Wed, 09 Aug 2023 15:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/journal_ijgi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Grad-SLAM: Explaining Convolutional Autoencoders’ Latent Space of Satellite Image Time Series </title>
+      <link>https://dimartinot.com/publication/journal_grsl/</link>
+      <pubDate>Mon, 07 Aug 2023 15:00:00 +0000</pubDate>
+      <guid>https://dimartinot.com/publication/journal_grsl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title> FARMSAR: Fixing AgRicultural Mislabels Using Sentinel-1 Time Series and AutoencodeRs </title>
